@@ -1,3 +1,9 @@
+> This is a form of kmic's llama.cpp fork reworked for compilation and usage on Windows.
+> The original fork's README follows.
+
+
+
+
 > **This is a fork of llama.cpp tuned for two Tesla P100s (sm_60).** On Qwen3.8-27B, plain decode
 > runs at 1.86x upstream's speed (17.5 -> 32.6 t/s), and ~3x with the model's built-in MTP head
 > (~54 t/s). Prefill runs at ~2x (250 -> 493 t/s at short context). The full 262k window fits with vision
