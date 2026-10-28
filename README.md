@@ -1,4 +1,4 @@
-> This is a form of kmic's llama.cpp fork reworked for compilation and usage on Windows.
+> This is a fork of kmic's llama.cpp fork reworked for compilation and usage on Windows.
 > The original fork's README follows.
 
 
